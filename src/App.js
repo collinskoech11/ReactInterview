@@ -5,6 +5,7 @@ import axios from "axios";
 const {useState} = React;
 
 // https://randomuser.me/api
+// second commit master branch
 
 function App() {
   const [counter, setCounter] = useState(0)
